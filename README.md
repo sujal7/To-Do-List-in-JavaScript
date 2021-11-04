@@ -1,2 +1,2 @@
 # To-Do-List-in-JavaScript
-Created a To-Do list in JavaScript using localStorage.
+Created a To-Do list in JavaScript using localStorage and JSON.
